@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "firstName": "Usman",
+      "lastName": "Alabama",
+      "subjectId": 1,
+      "id": "1"
+    },
+    {
+      "firstName": "Mateen",
+      "lastName": "Paragon",
+      "subjectId": 2,
+      "id": "2"
+    },
+    {
+      "firstName": "Abdul",
+      "lastName": "Henry",
+      "subjectId": 1,
+      "id": "3"
+    },
+    {
+      "id": "364f",
+      "firstname": "Harrison",
+      "subjectId": 2,
+      "lastname": "Afful"
+    },
+    {
+      "id": "0e51",
+      "firstname": "Harrison",
+      "subjectId": 2,
+      "lastname": "Afful"
+    },
+    {
+      "id": "9141",
+      "firstname": "Harrison",
+      "subjectId": 2,
+      "lastname": "Afful"
+    },
+    {
+      "id": "5637",
+      "firstname": "Harrison",
+      "subjectId": 2,
+      "lastname": "Afful"
+    },
+    {
+      "id": "0260",
+      "firstname": "Harrison",
+      "subjectId": 2,
+      "lastname": "Afful"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "subjectId": 1,
+      "id": "3382"
+    },
+    {
+      "name": "Devops",
+      "subjectId": 2,
+      "id": "3587"
+    },
+    {
+      "id": "0b53",
+      "name": "Selenium",
+      "subjectId": "3"
+    },
+    {
+      "id": "3b45",
+      "name": "Selenium",
+      "subjectId": "3"
+    },
+    {
+      "id": "dfec",
+      "name": "Selenium",
+      "subjectId": "3"
+    },
+    {
+      "id": "84e2",
+      "name": "Selenium",
+      "subjectId": "3"
+    },
+    {
+      "id": "ea2d",
+      "name": "Selenium",
+      "subjectId": "3"
+    },
+    {
+      "id": "1b6a",
+      "name": "Selenium",
+      "subjectId": "3"
+    },
+    {
+      "id": "6652",
+      "name": "Selenium",
+      "subjectId": "3"
+    },
+    {
+      "id": "3628",
+      "name": "Selenium",
+      "subjectId": "3"
+    }
+  ]
+}
